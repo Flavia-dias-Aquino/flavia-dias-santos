@@ -1,7 +1,7 @@
  👋 Olá! Eu sou a Flavia
 
 🎓 Estudante de Tecnologia na Cesar School  
-📊 Explorando dados com SQL, Power BI* e Python
+📊 Explorando dados com SQL, Power BI e Python
 🚀 Em transição de carreira | Aberta a oportunidades de estágio em dados  
 💡 Aprendendo todos os dias e construindo projetos práticos
 
