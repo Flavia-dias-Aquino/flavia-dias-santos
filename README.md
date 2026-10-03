@@ -1,35 +1,27 @@
-## 👋 Olá! Eu sou a Flavia Dias
+ 👋 Olá! Eu sou a Flavia
 
-🎓 Estudante de Tecnologia com foco em **Análise de Dados**  
-📊 Explorando dados com **SQL**, **Power BI** e **Python**  
-🚀 Em transição de carreira | Aberta a oportunidades de estágio  
-💡 Aprendendo todos os dias e construindo projetos práticos  
-
----
-
-### 🛠 Tecnologias que estou aprendendo
-
-- SQL (PostgreSQL, MySQL)  
-- Python (Pandas, Matplotlib)  
-- Power BI  
-- Excel aplicado à análise de dados  
+🎓 Estudante de Tecnologia na Cesar School  
+📊 Explorando dados com SQL, Power BI* e Python
+🚀 Em transição de carreira | Aberta a oportunidades de estágio em dados  
+💡 Aprendendo todos os dias e construindo projetos práticos
 
 ---
 
-### 📌 Meus projetos
+ 🛠️ Tecnologias
 
-Estou em processo de aprendizado e, em breve, publicarei meus primeiros projetos com:
-
-- SQL (consultas e bancos de dados)  
-- Python para análise de dados  
-- Dashboards com Power BI  
-
-🌱 Perfil em construção. Projetos em breve!
+- Linguagens: Python (Pandas, Matplotlib), SQL
+- Bancos de dados: PostgreSQL, MySQL
+- BI e planilhas: Power BI, Excel aplicado à análise de dados
 
 ---
 
-### 📬 Onde me encontrar
+ 📌 Projetos em destaque
 
-- [LinkedIn](https://www.linkedin.com/in/flavia-dias-)  
+| Projeto | O que faz | Tecnologias |
 
+
+
+ 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/flavia-dias-
 ✉️ Email: flaviasantos25@gmail.com
